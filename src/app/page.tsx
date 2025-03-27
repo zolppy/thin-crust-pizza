@@ -140,8 +140,8 @@ const Home = () => {
                             all, both look and taste.
                         </p>
                         <p className="text-4xl">
-                            <strong>Reserve</strong> a table, ask for today's
-                            special or just send us a message:
+                            <strong>Reserve</strong> a table, ask for
+                            today&apos;s special or just send us a message:
                         </p>
                         <Form>
                             <FormInput
