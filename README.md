@@ -8,7 +8,7 @@
 ![Framer Motion](<https://img.shields.io/badge/FRAMER MOTION-12.5.0-pink>)
 ![Docker](https://img.shields.io/badge/DOCKER-28.0.2-cyan)
 ![Docker](https://img.shields.io/badge/UUID-11.1.0-orange)
-![Eslint](https://img.shields.io/badge/ESLINT-9.23.0-gray)
+![Eslint](https://img.shields.io/badge/ESLINT-9.23.0-white)
 ![Status](https://img.shields.io/badge/STATUS-FINISHED-green)
 ![License](https://img.shields.io/badge/LICENSE-MIT-yellow)
 
@@ -37,6 +37,10 @@ Experience authentic artisanal pizza by chef. Cozy atmosphere, fresh ingredients
 You can access the page [here](https://thin-crust-pizza.vercel.app/).
 
 ## Screenshots
+
+![01](https://github.com/user-attachments/assets/68711294-dd16-45b4-8e33-56c9ef17b0a0)
+![02](https://github.com/user-attachments/assets/f11c7357-419f-4ecf-b1a1-dab9d5746e1c)
+![03](https://github.com/user-attachments/assets/5288e70f-de90-47ce-84a9-7a4ffc2a3588)
 
 ## Credits
 
