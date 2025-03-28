@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import type { Metadata } from "next";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { amaticSc } from "@/utils/fonts";
 import { MenuTypeProvider } from "@/context/MenuTypeCtx";
 import { NavProvider } from "@/context/NavCtx";
@@ -31,6 +32,7 @@ const RootLayout = ({
                     </body>
                 </NavProvider>
             </MenuTypeProvider>
+			<GoogleAnalytics gaId="G-8VW35R4VDN" />
         </html>
     );
 };
