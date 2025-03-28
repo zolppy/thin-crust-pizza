@@ -8,7 +8,7 @@ import "./globals.css";
 export const metadata: Metadata = {
     title: "Thin Crust Pizza",
     description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus veniam eaque dignissimos ipsum nobis voluptate! Cumque nostrum possimus perspiciatis sequi animi adipisci nihil minus repellat, doloribus earum assumenda officia sint.",
+        "Experience authentic artisanal pizza by chef. Cozy atmosphere, fresh ingredients, and unforgettable flavors. Book your table online and enjoy a unique dining experience!",
     authors: [
         {
             name: "Gabriel Cavalcante de Jesus Oliveira",
