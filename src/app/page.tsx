@@ -121,7 +121,7 @@ const Home = () => {
                     src={mapImg.src}
                     alt={mapImg.alt}
                     title={mapImg.title}
-                    className="grayscale-75 "
+                    className="grayscale-75 w-full"
                 />
                 <Section bgColor="#6b797b" ref={contactRef}>
                     <SectionTitle>contact</SectionTitle>
