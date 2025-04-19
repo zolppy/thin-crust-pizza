@@ -6,6 +6,7 @@
 ![Tailwind CSS](<https://img.shields.io/badge/TAILWIND CSS-4.0.0-indigo>)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-5.0.0-red)
 ![Framer Motion](<https://img.shields.io/badge/FRAMER MOTION-12.5.0-pink>)
+![React Icons](<https://img.shields.io/badge/REACT ICONS-5.5.0-magenta>)
 ![Docker](https://img.shields.io/badge/DOCKER-28.0.2-cyan)
 ![Docker](https://img.shields.io/badge/UUID-11.1.0-orange)
 ![Eslint](https://img.shields.io/badge/ESLINT-9.23.0-white)
@@ -29,6 +30,7 @@ Experience authentic artisanal pizza by chef. Cozy atmosphere, fresh ingredients
 -   Next.js;
 -   Tailwind CSS;
 -   React.js;
+-   React Icons
 -   TypeScript;
 -   Docker.
 
