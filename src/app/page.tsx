@@ -22,6 +22,7 @@ import { chefImg, restaurantImg, mapImg } from "@/utils/mocks/images";
 import { pizzas, salads, starters } from "@/utils/mocks/menu";
 import { MenuInterface } from "@/utils/types/menu";
 import { MenuTypeEnum } from "@/utils/enums/menuType";
+import CoffeeBtn from "@/app/components/CoffeeBtn";
 
 const Home = () => {
     const { menuRef, aboutRef, contactRef } = useNav();
@@ -167,6 +168,7 @@ const Home = () => {
                         </Form>
                     </SectionWrapper>
                 </Section>
+                <CoffeeBtn />
             </main>
             <Footer />
         </>
