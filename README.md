@@ -17,22 +17,22 @@ Experience authentic artisanal pizza by chef. Cozy atmosphere, fresh ingredients
 
 ## Features
 
--   Responsive design;
--   Food menu selection;
--   Navigation;
--   Home section;
--   Menu section;
--   About section;
--   Contact section.
+- Responsive design;
+- Food menu selection;
+- Navigation;
+- Home section;
+- Menu section;
+- About section;
+- Contact section.
 
 ## Technologies
 
--   Next.js;
--   Tailwind CSS;
--   React.js;
--   React Icons
--   TypeScript;
--   Docker.
+- Next.js;
+- Tailwind CSS;
+- React.js;
+- React Icons
+- TypeScript;
+- Docker.
 
 ## Demo
 

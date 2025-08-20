@@ -1,6 +1,6 @@
 services:
-    app:
-        build: .
-        container_name: thin-crust-pizza
-        ports:
-            - 3003:3003
+  app:
+    build: .
+    container_name: thin-crust-pizza
+    ports:
+      - 3003:3003

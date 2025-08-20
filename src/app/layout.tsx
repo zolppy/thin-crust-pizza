@@ -7,34 +7,34 @@ import { NavProvider } from "@/context/NavCtx";
 import "./globals.css";
 
 export const metadata: Metadata = {
-    title: "Thin Crust Pizza",
-    description:
-        "Experience authentic artisanal pizza by chef. Cozy atmosphere, fresh ingredients, and unforgettable flavors. Book your table online and enjoy a unique dining experience!",
-    authors: [
-        {
-            name: "Gabriel Cavalcante de Jesus Oliveira",
-            url: "https://github.com/zolppy",
-        },
-    ],
+  title: "Thin Crust Pizza",
+  description:
+    "Experience authentic artisanal pizza by chef. Cozy atmosphere, fresh ingredients, and unforgettable flavors. Book your table online and enjoy a unique dining experience!",
+  authors: [
+    {
+      name: "Gabriel Cavalcante de Jesus Oliveira",
+      url: "https://github.com/zolppy",
+    },
+  ],
 };
 
 const RootLayout = ({
-    children,
+  children,
 }: Readonly<{
-    children: ReactNode;
+  children: ReactNode;
 }>) => {
-    return (
-        <html lang="en">
-            <MenuTypeProvider>
-                <NavProvider>
-                    <body className={`${amaticSc.className} antialiased`}>
-                        {children}
-                    </body>
-                </NavProvider>
-            </MenuTypeProvider>
-			<GoogleAnalytics gaId="G-8VW35R4VDN" />
-        </html>
-    );
+  return (
+    <html lang="en">
+      <MenuTypeProvider>
+        <NavProvider>
+          <body className={`${amaticSc.className} antialiased`}>
+            {children}
+          </body>
+        </NavProvider>
+      </MenuTypeProvider>
+      <GoogleAnalytics gaId="G-8VW35R4VDN" />
+    </html>
+  );
 };
 
 RootLayout.displayName = "RootLayout";

@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
 
 const NavList = ({ children }: { children: ReactNode }) => {
-    return <ul className="flex">{children}</ul>;
+  return <ul className="flex">{children}</ul>;
 };
 
 NavList.displayName = "NavList";
